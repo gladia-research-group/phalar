@@ -1,6 +1,6 @@
 # PHALAR: Phasors for Learned Musical Audio Representations
 
-**PHALAR** is a self-supervised contrastive learning framework for learning rich embeddings of musical audio. The key innovation is a **learned spectral pooling technique** that feeds into a **phase-equivariant complex-valued neural network (CVNN)**, enabling the model to learn phase-aware representations of music.
+**PHALAR** is a self-supervised contrastive learning framework for learning rich embeddings of musical audio. Our key innovation is a **learned spectral pooling technique** that feeds into a **phase-equivariant complex-valued neural network (CVNN)**, enabling the model to learn phase-aware representations of music.
 
 This repository contains the official implementation of the PHALAR model and related baselines (COCOLA, MERT-based variants) with support for multiple audio datasets and downstream task evaluation.
 ## Installation
