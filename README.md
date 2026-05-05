@@ -25,7 +25,7 @@ This repository contains the official implementation of the PHALAR model and rel
    uv sync
    ```
 
-3. **Install FluidSynth** (for synthesized beats generation):
+3. **Install FluidSynth** (optional; for synthesized beats generation):
    ```bash
    # macOS
    brew install fluidsynth
