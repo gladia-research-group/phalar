@@ -6,7 +6,7 @@ import time
 with torch.inference_mode():
 
     # PHALAR can be used like so
-    model_path = 'PHALAR_best.ckpt'
+    model_path = 'ckpts/PHALAR_best.ckpt'
 
     checkpoint = torch.load(
         model_path,
@@ -42,7 +42,7 @@ with torch.inference_mode():
     from feature_extraction.feature_extraction import FeatureExtractor
     from contrastive_model import constants
 
-    model_path = 'COCOLA_best.ckpt'
+    model_path = 'ckpts/COCOLA_best.ckpt'
 
     checkpoint = torch.load(
         model_path,

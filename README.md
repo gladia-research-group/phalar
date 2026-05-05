@@ -95,9 +95,7 @@ For full inference examples (including COCOLA), see [model_usage_example.py](mod
 
 ## Training
 
-### Basic Training
-
-Training uses PyTorch Lightning CLI with YAML configuration files:
+Training uses PyTorch Lightning CLI with YAML configuration files (be sure to download and prepare your data! To do so see [data/])
 
 ```bash
 uv run python train.py fit \
@@ -107,12 +105,6 @@ uv run python train.py fit \
 ```
 
 Different training configurations are in `configs/`.
-
-### Multi-GPU Training
-
-```bash
-uv run python train.py fit --config configs/train_phalar.yaml --trainer.devices [0,1,2,3]
-```
 
 ## Inference & Downstream Tasks
 
@@ -151,11 +143,11 @@ See `wrappers/` for:
 If you use PHALAR in your research, please cite:
 
 ```bibtex
-@inproceedings{phalar2026,
-  title={PHALAR: Phasors for Learned Musical Audio Representations},
-  author={Your Name},
-  booktitle={International Conference on Machine Learning (ICML)},
-  year={2026}
+@inproceedings{marincione2026phalar,
+    title={PHALAR: Phasors for Learned Musical Audio Representations}, 
+    author={Davide Marincione and Michele Mancusi and Giorgio Strano and Luca Cerovaz and Roberto Ribuoli and Emanuele Rodol{\`a}},
+    year={2026},
+    booktitle={Proceedings of the Forty-Third International Conference on Machine Learning}
 }
 ```
 
