@@ -1,0 +1,692 @@
+{
+    "bass": [
+        {
+            "song": "PR_-_Oh_No",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "Signe_Jakobsen_-_What_Have_You_Done_To_Me",
+            "gt": 1.0,
+            "moises": 1.8208703147108571,
+            "sac": 1.0,
+            "stage": 1.7442391435867457
+        },
+        {
+            "song": "AM_Contra_-_Heart_Peripheral",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "Side_Effects_Project_-_Sing_With_Me",
+            "gt": 2.0253080296973645,
+            "moises": 2.376351158470472,
+            "sac": 1.977350588217134,
+            "stage": 1.0
+        },
+        {
+            "song": "Carlos_Gonzalez_-_A_Place_For_Us",
+            "gt": 1.0,
+            "moises": 2.675637205353185,
+            "sac": 2.618962061288398,
+            "stage": 2.406699610763614
+        },
+        {
+            "song": "Timboz_-_Pony",
+            "gt": 1.0,
+            "moises": 2.043431898247386,
+            "sac": 1.0,
+            "stage": 3.2952273676590993
+        },
+        {
+            "song": "The_Doppler_Shift_-_Atrophy",
+            "gt": 1.0,
+            "moises": 2.496210139844151,
+            "sac": 1.7265674331211747,
+            "stage": 2.6618343513733507
+        },
+        {
+            "song": "Raft_Monk_-_Tiring",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.5233029387195467,
+            "stage": 1.5932463490457747
+        },
+        {
+            "song": "BKS_-_Too_Much",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "Lyndsey_Ollard_-_Catching_Up",
+            "gt": 3.625481815035073,
+            "moises": 3.6143859705850088,
+            "sac": 3.5969816261188896,
+            "stage": 3.614931407269129
+        },
+        {
+            "song": "The_Sunshine_Garcia_Band_-_For_I_Am_The_Moon",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "We_Fell_From_The_Sky_-_Not_You",
+            "gt": 1.0,
+            "moises": 1.9046234704481422,
+            "sac": 1.0,
+            "stage": 1.6687248349389745
+        },
+        {
+            "song": "Al_James_-_Schoolboy_Facination",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.7168905872198137
+        },
+        {
+            "song": "The_Easton_Ellises_(Baumi)_-_SDRNR",
+            "gt": 1.7112017702283036,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "Georgia_Wonder_-_Siren",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 2.1899021807537995
+        },
+        {
+            "song": "The_Easton_Ellises_-_Falcon_69",
+            "gt": 2.5326977584746233,
+            "moises": 2.2826609842321184,
+            "sac": 1.0,
+            "stage": 2.5118841745038103
+        },
+        {
+            "song": "Little_Chicago's_Finest_-_My_Own",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "Detsky_Sad_-_Walkie_Talkie",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 2.6838346129591386
+        },
+        {
+            "song": "Buitraker_-_Revo_X",
+            "gt": 1.0,
+            "moises": 1.8954663090263497,
+            "sac": 1.0,
+            "stage": 1.82577665702837
+        },
+        {
+            "song": "Bobby_Nobody_-_Stitch_Up",
+            "gt": 1.9038316481432382,
+            "moises": 1.9258439196124506,
+            "sac": 1.835858610799857,
+            "stage": 1.904264782577029
+        },
+        {
+            "song": "Triviul_feat._The_Fiend_-_Widow",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "Girls_Under_Glass_-_We_Feel_Alright",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "James_Elder_&_Mark_M_Thompson_-_The_English_Actor",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.8725171534230678,
+            "stage": 2.6168823296019568
+        },
+        {
+            "song": "Moosmusic_-_Big_Dummy_Shake",
+            "gt": 1.0,
+            "moises": 2.2784664383470004,
+            "sac": 1.0,
+            "stage": 1.8397326434953345
+        },
+        {
+            "song": "Zeno_-_Signs",
+            "gt": 1.7266906731809328,
+            "moises": 1.9873448087285726,
+            "sac": 1.0,
+            "stage": 1.6764809841602522
+        },
+        {
+            "song": "Secretariat_-_Borderline",
+            "gt": 1.578386280060748,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "Arise_-_Run_Run_Run",
+            "gt": 1.0,
+            "moises": 2.3455569577600297,
+            "sac": 1.5809186599076068,
+            "stage": 1.690543398590738
+        },
+        {
+            "song": "Forkupines_-_Semantics",
+            "gt": 1.8093254410941948,
+            "moises": 2.2861188854370935,
+            "sac": 1.0,
+            "stage": 1.750612769931442
+        },
+        {
+            "song": "Motor_Tapes_-_Shore",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "Punkdisco_-_Oral_Hygiene",
+            "gt": 2.570292816819292,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "Speak_Softly_-_Like_Horses",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "The_Mountaineering_Club_-_Mallory",
+            "gt": 2.074857932147853,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 2.208480517306389
+        },
+        {
+            "song": "PR_-_Happy_Daze",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.9513411971981518
+        },
+        {
+            "song": "Nerve_9_-_Pray_For_The_Rain",
+            "gt": 1.9395091339109538,
+            "moises": 2.0075873781429685,
+            "sac": 1.0,
+            "stage": 1.8673540200150534
+        },
+        {
+            "song": "Sambasevam_Shanmugam_-_Kaathaadi",
+            "gt": 2.1578894916651525,
+            "moises": 1.0,
+            "sac": 2.102914623965679,
+            "stage": 2.085073819795731
+        },
+        {
+            "song": "Mu_-_Too_Bright",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "Speak_Softly_-_Broken_Man",
+            "gt": 1.0,
+            "moises": 1.5644802148084302,
+            "sac": 1.0,
+            "stage": 1.551555559046665
+        },
+        {
+            "song": "Juliet's_Rescue_-_Heartbeats",
+            "gt": 1.650301121126339,
+            "moises": 1.6298077577299908,
+            "sac": 1.0,
+            "stage": 1.8711843680161464
+        },
+        {
+            "song": "Skelpolu_-_Resurrection",
+            "gt": 1.0,
+            "moises": 2.758301972738275,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "BKS_-_Bulldozer",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "Louis_Cressy_Band_-_Good_Time",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "Angels_In_Amplifiers_-_I'm_Alright",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "Hollow_Ground_-_Ill_Fate",
+            "gt": 1.631090710467777,
+            "moises": 3.0367136023444194,
+            "sac": 1.623954171734109,
+            "stage": 1.7766521297006421
+        },
+        {
+            "song": "Ben_Carrigan_-_We'll_Talk_About_It_All_Tonight",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "Tom_McKenzie_-_Directions",
+            "gt": 1.0,
+            "moises": 1.5652994099538597,
+            "sac": 1.446381249655885,
+            "stage": 1.4873422887729353
+        },
+        {
+            "song": "Cristina_Vane_-_So_Easy",
+            "gt": 1.6689075770772361,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "The_Long_Wait_-_Dark_Horses",
+            "gt": 1.6052608014050587,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "Enda_Reilly_-_Cur_An_Long_Ag_Seol",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.4465384864813582,
+            "stage": 1.0
+        },
+        {
+            "song": "Secretariat_-_Over_The_Top",
+            "gt": 1.0,
+            "moises": 1.6438517363939589,
+            "sac": 1.6187233530453313,
+            "stage": 1.8801988114032624
+        }
+    ],
+    "drums": [
+        {
+            "song": "Sambasevam_Shanmugam_-_Kaathaadi",
+            "gt": 1.0,
+            "moises": 2.3805755933626926,
+            "sac": 1.0,
+            "stage": 2.4375004654588697
+        },
+        {
+            "song": "Carlos_Gonzalez_-_A_Place_For_Us",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "Little_Chicago's_Finest_-_My_Own",
+            "gt": 2.521318232355773,
+            "moises": 2.121376193949123,
+            "sac": 2.968140495388778,
+            "stage": 2.3351460271400803
+        },
+        {
+            "song": "Arise_-_Run_Run_Run",
+            "gt": 1.5553065927891976,
+            "moises": 1.5281118984860536,
+            "sac": 1.649479932684991,
+            "stage": 1.5403624427777016
+        },
+        {
+            "song": "Georgia_Wonder_-_Siren",
+            "gt": 2.598504381556957,
+            "moises": 2.503953099410703,
+            "sac": 1.0,
+            "stage": 2.7139783340988624
+        },
+        {
+            "song": "BKS_-_Bulldozer",
+            "gt": 2.9833586506785608,
+            "moises": 2.8018687795766346,
+            "sac": 3.218812103743497,
+            "stage": 2.7289029282781447
+        },
+        {
+            "song": "AM_Contra_-_Heart_Peripheral",
+            "gt": 2.557377749481552,
+            "moises": 2.888803116676254,
+            "sac": 2.9113262380877707,
+            "stage": 2.6319774692672104
+        },
+        {
+            "song": "Speak_Softly_-_Broken_Man",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 2.6394335962685354,
+            "stage": 1.0
+        },
+        {
+            "song": "James_Elder_&_Mark_M_Thompson_-_The_English_Actor",
+            "gt": 2.504111706496321,
+            "moises": 1.0,
+            "sac": 2.8668007916027953,
+            "stage": 2.3700780404166313
+        },
+        {
+            "song": "The_Easton_Ellises_(Baumi)_-_SDRNR",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 2.4935288709597665,
+            "stage": 2.7242025538697106
+        },
+        {
+            "song": "Hollow_Ground_-_Ill_Fate",
+            "gt": 3.0155408614796864,
+            "moises": 2.6554039170668817,
+            "sac": 2.357298695442,
+            "stage": 2.8390603241556214
+        },
+        {
+            "song": "Signe_Jakobsen_-_What_Have_You_Done_To_Me",
+            "gt": 2.870140633592592,
+            "moises": 1.0,
+            "sac": 3.1076882208793184,
+            "stage": 2.973086919291813
+        },
+        {
+            "song": "We_Fell_From_The_Sky_-_Not_You",
+            "gt": 2.5163753250507037,
+            "moises": 2.4579787519298133,
+            "sac": 2.4745120154967486,
+            "stage": 2.338313739906539
+        },
+        {
+            "song": "Forkupines_-_Semantics",
+            "gt": 1.0,
+            "moises": 1.9378162274979145,
+            "sac": 1.0,
+            "stage": 2.295794227656722
+        },
+        {
+            "song": "Side_Effects_Project_-_Sing_With_Me",
+            "gt": 2.9656243966587077,
+            "moises": 2.6904402868448534,
+            "sac": 3.489150974323225,
+            "stage": 2.828086014143434
+        },
+        {
+            "song": "PR_-_Happy_Daze",
+            "gt": 2.972432406215725,
+            "moises": 3.5443920742352275,
+            "sac": 3.5693043690680475,
+            "stage": 3.537991192669635
+        },
+        {
+            "song": "The_Long_Wait_-_Dark_Horses",
+            "gt": 2.4086489316501356,
+            "moises": 2.0186618327548054,
+            "sac": 1.0,
+            "stage": 2.480076514416176
+        },
+        {
+            "song": "Punkdisco_-_Oral_Hygiene",
+            "gt": 2.3211848405992064,
+            "moises": 2.6539778435587924,
+            "sac": 1.8133923750349767,
+            "stage": 2.965805591017667
+        },
+        {
+            "song": "Triviul_feat._The_Fiend_-_Widow",
+            "gt": 1.0,
+            "moises": 1.9922753623577938,
+            "sac": 1.0,
+            "stage": 2.2810021248846044
+        },
+        {
+            "song": "Speak_Softly_-_Like_Horses",
+            "gt": 2.6542856896159748,
+            "moises": 2.8312303641298207,
+            "sac": 3.3047820580045033,
+            "stage": 3.211221274200676
+        },
+        {
+            "song": "Motor_Tapes_-_Shore",
+            "gt": 1.6335243899932825,
+            "moises": 2.1808479022240013,
+            "sac": 2.58450180614005,
+            "stage": 1.0
+        },
+        {
+            "song": "Secretariat_-_Borderline",
+            "gt": 2.5662148404448635,
+            "moises": 2.2784159928020644,
+            "sac": 1.0,
+            "stage": 2.456914906482052
+        },
+        {
+            "song": "Skelpolu_-_Resurrection",
+            "gt": 1.0,
+            "moises": 2.670330104501341,
+            "sac": 1.847904594782709,
+            "stage": 2.6711180867164965
+        },
+        {
+            "song": "Buitraker_-_Revo_X",
+            "gt": 2.456510700156003,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 2.6702005292459052
+        },
+        {
+            "song": "Angels_In_Amplifiers_-_I'm_Alright",
+            "gt": 2.2853291166714484,
+            "moises": 2.6158230360199513,
+            "sac": 1.0,
+            "stage": 2.559754298784793
+        },
+        {
+            "song": "Detsky_Sad_-_Walkie_Talkie",
+            "gt": 3.2489922091189447,
+            "moises": 2.2800500489023823,
+            "sac": 2.702231581051075,
+            "stage": 2.463057020480937
+        },
+        {
+            "song": "Nerve_9_-_Pray_For_The_Rain",
+            "gt": 1.9180141304858513,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "Mu_-_Too_Bright",
+            "gt": 3.209041886394559,
+            "moises": 3.986620486162855,
+            "sac": 3.956269458865929,
+            "stage": 3.4826212852552443
+        },
+        {
+            "song": "Ben_Carrigan_-_We'll_Talk_About_It_All_Tonight",
+            "gt": 2.622404675071508,
+            "moises": 2.5188950674850665,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "The_Doppler_Shift_-_Atrophy",
+            "gt": 2.7298658277018557,
+            "moises": 1.0,
+            "sac": 2.849195948359359,
+            "stage": 2.370105888588957
+        },
+        {
+            "song": "Zeno_-_Signs",
+            "gt": 2.1877251105984787,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 1.0
+        },
+        {
+            "song": "Cristina_Vane_-_So_Easy",
+            "gt": 2.322635752956154,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 2.4175428197831126
+        },
+        {
+            "song": "The_Easton_Ellises_-_Falcon_69",
+            "gt": 2.784615787851977,
+            "moises": 2.523740507562771,
+            "sac": 2.28251986757453,
+            "stage": 2.8761651877927954
+        },
+        {
+            "song": "Louis_Cressy_Band_-_Good_Time",
+            "gt": 1.0,
+            "moises": 1.8959544435186668,
+            "sac": 2.8167721742406764,
+            "stage": 1.0
+        },
+        {
+            "song": "Timboz_-_Pony",
+            "gt": 2.0759281939036627,
+            "moises": 2.5227833731042124,
+            "sac": 2.543123586600643,
+            "stage": 1.9892805508776457
+        },
+        {
+            "song": "The_Mountaineering_Club_-_Mallory",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 2.2399358835911096,
+            "stage": 1.0
+        },
+        {
+            "song": "The_Sunshine_Garcia_Band_-_For_I_Am_The_Moon",
+            "gt": 2.281847255078353,
+            "moises": 2.1036546588677165,
+            "sac": 1.0,
+            "stage": 2.3146976881772345
+        },
+        {
+            "song": "Juliet's_Rescue_-_Heartbeats",
+            "gt": 1.0,
+            "moises": 2.634625519320901,
+            "sac": 1.0,
+            "stage": 2.7751045714024594
+        },
+        {
+            "song": "BKS_-_Too_Much",
+            "gt": 1.918014385140809,
+            "moises": 1.0,
+            "sac": 2.5027096238644138,
+            "stage": 1.8949920454632236
+        },
+        {
+            "song": "Tom_McKenzie_-_Directions",
+            "gt": 1.8254026908543575,
+            "moises": 2.101615972334243,
+            "sac": 2.5767851676775972,
+            "stage": 2.249581421409189
+        },
+        {
+            "song": "Bobby_Nobody_-_Stitch_Up",
+            "gt": 1.8727551648631204,
+            "moises": 2.3681080130963093,
+            "sac": 2.379761203164294,
+            "stage": 2.062767106682099
+        },
+        {
+            "song": "PR_-_Oh_No",
+            "gt": 2.8132646818616798,
+            "moises": 2.7292956329530327,
+            "sac": 3.2960509731644247,
+            "stage": 2.778171960124648
+        },
+        {
+            "song": "Raft_Monk_-_Tiring",
+            "gt": 2.2343118373840793,
+            "moises": 1.0,
+            "sac": 2.1985550800635725,
+            "stage": 2.675931171011331
+        },
+        {
+            "song": "Enda_Reilly_-_Cur_An_Long_Ag_Seol",
+            "gt": 1.0,
+            "moises": 1.0,
+            "sac": 1.0,
+            "stage": 2.8491045528848664
+        },
+        {
+            "song": "Girls_Under_Glass_-_We_Feel_Alright",
+            "gt": 2.9145188855393553,
+            "moises": 2.616197591287963,
+            "sac": 1.0,
+            "stage": 2.9114046119216495
+        },
+        {
+            "song": "Secretariat_-_Over_The_Top",
+            "gt": 1.0,
+            "moises": 1.9296360269833894,
+            "sac": 2.452127264694492,
+            "stage": 1.9047931387483947
+        },
+        {
+            "song": "Lyndsey_Ollard_-_Catching_Up",
+            "gt": 2.868217830209002,
+            "moises": 2.875413342399257,
+            "sac": 2.652112894403094,
+            "stage": 2.5412763108854657
+        },
+        {
+            "song": "Moosmusic_-_Big_Dummy_Shake",
+            "gt": 1.0,
+            "moises": 2.828741247414565,
+            "sac": 2.8937154695205782,
+            "stage": 2.8307299170310216
+        },
+        {
+            "song": "Al_James_-_Schoolboy_Facination",
+            "gt": 2.7658107677640835,
+            "moises": 2.725248260177782,
+            "sac": 1.0,
+            "stage": 2.721648495917657
+        }
+    ]
+}

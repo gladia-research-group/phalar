@@ -1,0 +1,172 @@
+[
+  {
+    "trial_index": 0,
+    "folder": "Side_Effects_Project_-_Sing_With_Me",
+    "type": "bass",
+    "scores": {
+      "og": 5,
+      "stage": 2,
+      "moises": 3,
+      "sac": 4
+    },
+    "model_order": [
+      "og",
+      "stage",
+      "moises",
+      "sac"
+    ]
+  },
+  {
+    "trial_index": 1,
+    "folder": "Lyndsey_Ollard_-_Catching_Up",
+    "type": "bass",
+    "scores": {
+      "sac": 2,
+      "og": 4,
+      "moises": 5,
+      "stage": 2
+    },
+    "model_order": [
+      "sac",
+      "og",
+      "moises",
+      "stage"
+    ]
+  },
+  {
+    "trial_index": 2,
+    "folder": "Bobby_Nobody_-_Stitch_Up",
+    "type": "bass",
+    "scores": {
+      "og": 5,
+      "stage": 2,
+      "moises": 4,
+      "sac": 3
+    },
+    "model_order": [
+      "og",
+      "stage",
+      "moises",
+      "sac"
+    ]
+  },
+  {
+    "trial_index": 3,
+    "folder": "We_Fell_From_The_Sky_-_Not_You",
+    "type": "bass",
+    "scores": {
+      "og": 4,
+      "moises": 5,
+      "stage": 3,
+      "sac": 3
+    },
+    "model_order": [
+      "og",
+      "moises",
+      "stage",
+      "sac"
+    ]
+  },
+  {
+    "trial_index": 4,
+    "folder": "Secretariat_-_Over_The_Top",
+    "type": "bass",
+    "scores": {
+      "moises": 2,
+      "og": 4,
+      "sac": 3,
+      "stage": 1
+    },
+    "model_order": [
+      "moises",
+      "og",
+      "sac",
+      "stage"
+    ]
+  },
+  {
+    "trial_index": 5,
+    "folder": "Zeno_-_Signs",
+    "type": "drums",
+    "scores": {
+      "moises": 2,
+      "sac": 1,
+      "og": 5,
+      "stage": 5
+    },
+    "model_order": [
+      "moises",
+      "sac",
+      "og",
+      "stage"
+    ]
+  },
+  {
+    "trial_index": 6,
+    "folder": "The_Easton_Ellises_(Baumi)_-_SDRNR",
+    "type": "drums",
+    "scores": {
+      "moises": 2,
+      "og": 5,
+      "sac": 1,
+      "stage": 1
+    },
+    "model_order": [
+      "moises",
+      "og",
+      "sac",
+      "stage"
+    ]
+  },
+  {
+    "trial_index": 7,
+    "folder": "Forkupines_-_Semantics",
+    "type": "drums",
+    "scores": {
+      "stage": 3,
+      "moises": 2,
+      "og": 5,
+      "sac": 4
+    },
+    "model_order": [
+      "stage",
+      "moises",
+      "og",
+      "sac"
+    ]
+  },
+  {
+    "trial_index": 8,
+    "folder": "Hollow_Ground_-_Ill_Fate",
+    "type": "drums",
+    "scores": {
+      "moises": 4,
+      "stage": 3,
+      "sac": 1,
+      "og": 3
+    },
+    "model_order": [
+      "moises",
+      "stage",
+      "sac",
+      "og"
+    ]
+  },
+  {
+    "trial_index": 9,
+    "folder": "Punkdisco_-_Oral_Hygiene",
+    "type": "drums",
+    "scores": {
+      "sac": 4,
+      "stage": 4,
+      "og": 4,
+      "moises": 4
+    },
+    "model_order": [
+      "sac",
+      "stage",
+      "og",
+      "moises"
+    ]
+  }
+]

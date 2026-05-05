@@ -1,0 +1,172 @@
+[
+  {
+    "trial_index": 0,
+    "folder": "Speak_Softly_-_Broken_Man",
+    "type": "drums",
+    "scores": {
+      "stage": 4,
+      "sac": 2,
+      "og": 5,
+      "moises": 4
+    },
+    "model_order": [
+      "stage",
+      "sac",
+      "og",
+      "moises"
+    ]
+  },
+  {
+    "trial_index": 1,
+    "folder": "Sambasevam_Shanmugam_-_Kaathaadi",
+    "type": "drums",
+    "scores": {
+      "moises": 5,
+      "og": 4,
+      "stage": 3,
+      "sac": 2
+    },
+    "model_order": [
+      "moises",
+      "og",
+      "stage",
+      "sac"
+    ]
+  },
+  {
+    "trial_index": 2,
+    "folder": "Secretariat_-_Over_The_Top",
+    "type": "drums",
+    "scores": {
+      "sac": 2,
+      "stage": 4,
+      "og": 5,
+      "moises": 4
+    },
+    "model_order": [
+      "sac",
+      "stage",
+      "og",
+      "moises"
+    ]
+  },
+  {
+    "trial_index": 3,
+    "folder": "Motor_Tapes_-_Shore",
+    "type": "drums",
+    "scores": {
+      "stage": 2,
+      "moises": 5,
+      "og": 4,
+      "sac": 1
+    },
+    "model_order": [
+      "stage",
+      "moises",
+      "og",
+      "sac"
+    ]
+  },
+  {
+    "trial_index": 4,
+    "folder": "BKS_-_Too_Much",
+    "type": "drums",
+    "scores": {
+      "moises": 3,
+      "stage": 3,
+      "og": 5,
+      "sac": 2
+    },
+    "model_order": [
+      "moises",
+      "stage",
+      "og",
+      "sac"
+    ]
+  },
+  {
+    "trial_index": 5,
+    "folder": "Forkupines_-_Semantics",
+    "type": "bass",
+    "scores": {
+      "stage": 3,
+      "sac": 2,
+      "moises": 5,
+      "og": 4
+    },
+    "model_order": [
+      "stage",
+      "sac",
+      "moises",
+      "og"
+    ]
+  },
+  {
+    "trial_index": 6,
+    "folder": "Al_James_-_Schoolboy_Facination",
+    "type": "bass",
+    "scores": {
+      "stage": 2,
+      "og": 5,
+      "sac": 4,
+      "moises": 5
+    },
+    "model_order": [
+      "stage",
+      "og",
+      "sac",
+      "moises"
+    ]
+  },
+  {
+    "trial_index": 7,
+    "folder": "Timboz_-_Pony",
+    "type": "bass",
+    "scores": {
+      "sac": 2,
+      "og": 4,
+      "moises": 5,
+      "stage": 2
+    },
+    "model_order": [
+      "sac",
+      "og",
+      "moises",
+      "stage"
+    ]
+  },
+  {
+    "trial_index": 8,
+    "folder": "The_Mountaineering_Club_-_Mallory",
+    "type": "bass",
+    "scores": {
+      "sac": 3,
+      "og": 5,
+      "stage": 2,
+      "moises": 5
+    },
+    "model_order": [
+      "sac",
+      "og",
+      "stage",
+      "moises"
+    ]
+  },
+  {
+    "trial_index": 9,
+    "folder": "Ben_Carrigan_-_We'll_Talk_About_It_All_Tonight",
+    "type": "bass",
+    "scores": {
+      "sac": 4,
+      "og": 4,
+      "moises": 3,
+      "stage": 4
+    },
+    "model_order": [
+      "sac",
+      "og",
+      "moises",
+      "stage"
+    ]
+  }
+]

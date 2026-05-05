@@ -1,0 +1,172 @@
+[
+  {
+    "trial_index": 0,
+    "folder": "Raft_Monk_-_Tiring",
+    "type": "bass",
+    "scores": {
+      "moises": 3,
+      "stage": 3,
+      "og": 4,
+      "sac": 3
+    },
+    "model_order": [
+      "moises",
+      "stage",
+      "og",
+      "sac"
+    ]
+  },
+  {
+    "trial_index": 1,
+    "folder": "Secretariat_-_Over_The_Top",
+    "type": "bass",
+    "scores": {
+      "moises": 3,
+      "stage": 2,
+      "og": 3,
+      "sac": 3
+    },
+    "model_order": [
+      "moises",
+      "stage",
+      "og",
+      "sac"
+    ]
+  },
+  {
+    "trial_index": 2,
+    "folder": "Sambasevam_Shanmugam_-_Kaathaadi",
+    "type": "bass",
+    "scores": {
+      "stage": 3,
+      "sac": 3,
+      "moises": 4,
+      "og": 2
+    },
+    "model_order": [
+      "stage",
+      "sac",
+      "moises",
+      "og"
+    ]
+  },
+  {
+    "trial_index": 3,
+    "folder": "The_Easton_Ellises_-_Falcon_69",
+    "type": "bass",
+    "scores": {
+      "og": 2,
+      "stage": 1,
+      "sac": 4,
+      "moises": 2
+    },
+    "model_order": [
+      "og",
+      "stage",
+      "sac",
+      "moises"
+    ]
+  },
+  {
+    "trial_index": 4,
+    "folder": "Side_Effects_Project_-_Sing_With_Me",
+    "type": "bass",
+    "scores": {
+      "stage": 4,
+      "og": 2,
+      "moises": 3,
+      "sac": 3
+    },
+    "model_order": [
+      "stage",
+      "og",
+      "moises",
+      "sac"
+    ]
+  },
+  {
+    "trial_index": 5,
+    "folder": "Motor_Tapes_-_Shore",
+    "type": "drums",
+    "scores": {
+      "sac": 1,
+      "og": 2,
+      "moises": 2,
+      "stage": 2
+    },
+    "model_order": [
+      "sac",
+      "og",
+      "moises",
+      "stage"
+    ]
+  },
+  {
+    "trial_index": 6,
+    "folder": "Speak_Softly_-_Like_Horses",
+    "type": "drums",
+    "scores": {
+      "moises": 3,
+      "sac": 2,
+      "stage": 3,
+      "og": 2
+    },
+    "model_order": [
+      "moises",
+      "sac",
+      "stage",
+      "og"
+    ]
+  },
+  {
+    "trial_index": 7,
+    "folder": "Hollow_Ground_-_Ill_Fate",
+    "type": "drums",
+    "scores": {
+      "stage": 2,
+      "moises": 4,
+      "sac": 1,
+      "og": 2
+    },
+    "model_order": [
+      "stage",
+      "moises",
+      "sac",
+      "og"
+    ]
+  },
+  {
+    "trial_index": 8,
+    "folder": "Georgia_Wonder_-_Siren",
+    "type": "drums",
+    "scores": {
+      "og": 3,
+      "sac": 3,
+      "stage": 4,
+      "moises": 2
+    },
+    "model_order": [
+      "og",
+      "sac",
+      "stage",
+      "moises"
+    ]
+  },
+  {
+    "trial_index": 9,
+    "folder": "Nerve_9_-_Pray_For_The_Rain",
+    "type": "drums",
+    "scores": {
+      "moises": 1,
+      "sac": 1,
+      "og": 3,
+      "stage": 3
+    },
+    "model_order": [
+      "moises",
+      "sac",
+      "og",
+      "stage"
+    ]
+  }
+]

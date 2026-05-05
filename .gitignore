@@ -1,0 +1,16 @@
+__pycache__
+wandb
+logs/
+*.sh
+*.slurm
+.venv/
+*.mp3
+*.wav
+*.flac
+.hf-cache/
+.hidden/
+phalar/
+.torchhub/
+*.sf2
+*.pkl
+*.npy
