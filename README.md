@@ -24,13 +24,8 @@ This repository contains the official implementation of the PHALAR model and rel
    ```bash
    uv sync
    ```
-   
-   Or with `pip`:
-   ```bash
-   pip install -e .
-   ```
 
-3. **Install FluidSynth** (for synthesized template generation):
+3. **Install FluidSynth** (for synthesized beats generation):
    ```bash
    # macOS
    brew install fluidsynth
@@ -41,9 +36,7 @@ This repository contains the official implementation of the PHALAR model and rel
    # Fedora
    sudo dnf install fluidsynth
    ```
-
-4. **Download soundfont**:
-   The repository includes `GeneralUser-GS.sf2` for MIDI synthesis. Ensure this file is accessible for template generation.
+   and **Download soundfont** (from https://schristiancollins.com/generaluser.php)
 
 ## Quick Start
 
