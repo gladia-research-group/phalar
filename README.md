@@ -138,7 +138,7 @@ If you use PHALAR in your research, please cite:
 ```bibtex
 @inproceedings{marincione2026phalar,
     title={PHALAR: Phasors for Learned Musical Audio Representations}, 
-    author={Davide Marincione and Michele Mancusi and Giorgio Strano and Luca Cerovaz and Roberto Ribuoli and Emanuele Rodol{\`a}},
+    author={Davide Marincione and Michele Mancusi and Giorgio Strano and Luca Cerovaz and Donato Crisostomi and Roberto Ribuoli and Emanuele Rodol{\`a}},
     year={2026},
     booktitle={Proceedings of the Forty-Third International Conference on Machine Learning}
 }
